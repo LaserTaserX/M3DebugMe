@@ -1,3 +1,13 @@
+/*
+Errors in this file:
+1. Missing semicolon at the end of the alert statement.
+2. Equals instead of equals operator in the multiplication expression.
+3. Style was misspelled as .stlye.
+4. getElementByld used a lowercase "e" instead of uppercase "E".
+5. innerhtml misspelled instead of innerHTML.
+6. The green color had "purple" assigned instead of green.
+*/
+
 let v1 = 3;
 let v2 = 4;
 alert("3 times 4" + " = " + v1 * v2);
