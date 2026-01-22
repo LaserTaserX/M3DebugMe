@@ -31,7 +31,7 @@ alert("3 times 4" + " = " + v1 * v2);
             yellow.style.backgroundColor = "yellow"
 
             // GREEN
-            const purple = document.getElementById("green")
+            const green = document.getElementById("green")
             green.innerHTML = "GREEN"
             green.style.backgroundColor = "green"
 
